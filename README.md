@@ -45,7 +45,7 @@ An analytical project using Python to explore garment costing and order data. It
 ## 🧑‍💼 Author
 
 **Md Sujon Islam**  
-Garment & Textile Data Enthusiast  
+Garment & Textile Data Enthusiast(Bussiness)  
 ---
 ## 📜 License
 
